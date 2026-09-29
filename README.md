@@ -6,7 +6,7 @@
 
 ###
 
-<p data-importer="text" align="left">A graduating Information Technology student at the University of Santo Tomas. My technical focus includes web, software, and mobile development, fueled by a passion for building applications and turning ideas into reality.<br><br>Although I am still mastering the full stack, I am an adaptable developer skilled in frontends, databases, and APIs. Through core Cisco networking and cybersecurity coursework, I understand how to secure web applications. I enter the professional world with optimism and humility, eager to learn, adapt, and contribute to building robust digital solutions with a strong team.</p>
+<p data-importer="text" align="left">I'm a graduating Information Technology student at the University of Santo Tomas, focused on web, software, and mobile development. I enjoy building applications and turning ideas into working products.<br><br>I'm still growing across the full stack, and I'm comfortable working with frontends, databases, and APIs. My Cisco networking and cybersecurity coursework gave me a solid foundation in how networks work and how to keep web applications secure. I've also gained hands-on experience with CI/CD and deploying applications to Linux servers and the cloud, which has made me want to work closer to infrastructure and reliability.</p>
 
 ###
 
